@@ -54,12 +54,13 @@
     }
 
     div#formulario > h1{
-    text-align: center;
-    margin: 10px;
+
+        text-align: center;
+        margin: 10px;
     }
 
     div#formulario > p{
-    font-size: 1.3em;
+        font-size: 1.3em;
     }
 }
  
